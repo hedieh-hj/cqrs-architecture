@@ -1,0 +1,110 @@
+[
+  {
+    "name_product": "pen",
+
+    "cost": [
+      {
+        "cost_id": 101,
+        "value": 3
+      },
+      {
+        "cost_id": 102,
+        "value": 5
+      }
+    ],
+
+    "unit": [
+      {
+        "unit_id": 201,
+        "value": "koliforoshi"
+      },
+      {
+        "unit_id": 202,
+        "value": "joziforoshi"
+      }
+
+    ],
+
+    "category": "tahriri"
+
+  },
+
+
+  {
+    "name_product": "mouse",
+
+    "cost": [
+      {
+        "cost_id": 101,
+        "value": 850.65
+      },
+      {
+        "cost_id": 102,
+        "value": 1000
+      }
+    ],
+
+    "unit": [
+      {
+        "unit_id": 201,
+        "value": "koliforoshi"
+      },
+      {
+        "unit_id": 202,
+        "value": "joziforoshi"
+      }
+
+    ],
+
+    "category": "electrici"
+
+  },
+  {
+    "name_product": "glass",
+
+    "cost": [
+      {
+        "cost_id": 101,
+        "value": 500
+      },
+      {
+        "cost_id": 102,
+        "value": 350
+      },
+      {
+        "cost_id": 103,
+        "value": 420
+      },
+      {
+        "cost_id": 104,
+        "value": 270
+      }
+    ],
+
+    "unit": [
+      {
+        "unit_id": 201,
+        "value": "woman"
+      },
+      {
+        "unit_id": 202,
+        "value": "men"
+      },
+      {
+        "unit_id": 203,
+        "value": "woman_all"
+      },
+      {
+        "unit_id": 204,
+        "value": "men_all"
+      }
+
+    ],
+
+    "category": "accessory"
+
+  }
+
+
+
+]
